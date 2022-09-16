@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: Ice Cream Shop
+  title: Ice Cream Shop - development
   version: '1.0'
   summary: Fictional ice cream store e-commerce API to order a tasty dessert!
   description: 'This fictional ice cream store needs an API to allow people to order their favorite desserts. One endpoint will let them retrieve the menu of flavors and customizations, and the other endpoint will let them submit an order.'
